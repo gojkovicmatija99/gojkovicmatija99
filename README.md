@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matija-gojkovic)
-[<img src="https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=e-mail&logoColor=white&color=FF0000" />](mailto:gojkovicmatija99@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gojkovicmatija99@gmail.com)
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://gojkovicmatija99.github.io/Hello-world/)
 
 - 🔭 I’m currently working on:
