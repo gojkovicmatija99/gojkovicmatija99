@@ -8,3 +8,5 @@
     - Raspberry Pi storage server with face recognition
 
 ![Matija Gojkovic's github stats](https://github-readme-stats.vercel.app/api?username=gojkovicmatija99&count_private=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojkovicmatija99&exclude_repo=Users-and-groups-in-xv6)](https://github.com/anuraghazra/github-readme-stats)
