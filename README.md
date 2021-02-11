@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on:
     - Raspberry Pi storage server with face recognition
 
-![Matija Gojkovic's github stats](https://github-readme-stats.vercel.app/api?username=gojkovicmatija99&count_private=true&theme=algolia)
+![Matija Gojkovic's github stats](https://github-readme-stats.vercel.app/api?username=gojkovicmatija99&count_private=true&theme=algolia&show_icons=true)
